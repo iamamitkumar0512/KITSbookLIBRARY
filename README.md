@@ -27,7 +27,7 @@
 
 #### Possible choices:
 
-**1**. You can run a **[live demo](https://akroc0512.github.io/KBL/)** deployed with `gh-pages`
+**1**. You can run a **[live demo](https://akrock0512.github.io/KBL/)** deployed with `gh-pages`
 
 **2**. Or run it on your local machine:
 * download or clone the repository
